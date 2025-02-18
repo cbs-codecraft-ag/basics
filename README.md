@@ -10,7 +10,7 @@ Diese Struktur bildet die Basis für die Erstellung und Gestaltung moderner Webs
 
 ## Notepad++ einrichten
 
-###Sprach-Einstellungen
+### Sprach-Einstellungen
 Settings > Preferences > Localization  
 Deutsch auswählen  
 Schließen  
