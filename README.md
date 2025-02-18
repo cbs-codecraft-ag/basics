@@ -21,7 +21,6 @@ Speichern & Exit
 
 ### Browser einrichten
 Ausführen > Externes Programm ausführen...  
-Folgendes einfügen:  
-"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "$(FULL_CURRENT_PATH)"  
+`"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "$(FULL_CURRENT_PATH)"` einfügen  
 Ausführen  
 
