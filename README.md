@@ -10,17 +10,18 @@ Diese Struktur bildet die Basis für die Erstellung und Gestaltung moderner Webs
 
 ## Notepad++ einrichten
 
-Sprach-Einstellungen
-Settings > Preferences > Localization
-Deutsch auswählen
-Schließen
+###Sprach-Einstellungen
+Settings > Preferences > Localization  
+Deutsch auswählen  
+Schließen  
 
-Theme-Einstellungen
-Einstellungen > Stile konfigurireren > Thema auswählen
-Speichern & Exit
+### Theme-Einstellungen
+Einstellungen > Stile konfigurireren > Thema auswählen  
+Speichern & Exit  
 
-Browser einrichten
-Ausführen > Externes Programm ausführen...
-Folgendes einfügen:
-"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "$(FULL_CURRENT_PATH)"
-Ausführen
+### Browser einrichten
+Ausführen > Externes Programm ausführen...  
+Folgendes einfügen:  
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "$(FULL_CURRENT_PATH)"  
+Ausführen  
+
